@@ -17,20 +17,20 @@ Problem #1:
 - Mean:  5 and 8
 - Variation:  1 and 3
 - Size 200 and 500
-Answer = -19.7814
+- Answer = -19.7814
 
 Problem #2:
 - Mean:  1090 and 999
 - Variation:  400 and 30
 - Size:  900 and 100
-Answer:  6.6585
+- Answer:  6.6585
 
 
 Problem #3:
 - Mean:  45 and 40
 - Variation:  45 and 40
 - Size:  2000 and 2000
-Answer:  3.7139
+- Answer:  3.7139
 
 NOTE:  The difference in means (top) divided by the bottom (variablity over sample size) gives us the relative size of the different in means given the amount of noise in the data - this is the t-value.
 
